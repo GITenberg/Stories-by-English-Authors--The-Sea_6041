@@ -1,0 +1,50 @@
+_repo: Stories-by-English-Authors--The-Sea_6041
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Russell, William Clark
+    alias: Russell, W. Clark (William Clark)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '8948'
+    url: http://www.gutenberg.org/2009/agents/8948
+    wikipedia: http://en.wikipedia.org/wiki/William_Clark_Russell
+  - agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+  - agent_name: O'Halloran, G. B.
+    gutenberg_agent_id: '1944'
+    url: http://www.gutenberg.org/2009/agents/1944
+  - agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- !lcsh 'Sea stories, English'
+- GITenberg
+tableOfContents: The extraordinary adventure of a chief mate / W. Clark Russell --
+  Quarantine Island / Sir Walter Besant -- The rock scorpions / Anonymous -- The master
+  of the "Chrysolite" / G.B. O'Halloran -- "Petrel" and "The Black Swan" / Anonymous
+  -- Melissa's tour / Grant Allen -- Vanderdecken's message home / Anonymous.
+title: 'Stories by English Authors: The Sea'
+url: http://www.gutenberg.org/ebooks/6041
